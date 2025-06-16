@@ -1,36 +1,36 @@
-<# uidecyberseguridad
+## uidecyberseguridad
 Repositorio Diego Hachig
 =========================================================================================
 Aprendizaje Autonomo 2
-Paso 1: Inicio del Desarrollo de Software / Configuración del Entorno - Entrega:
+***Paso 1: Inicio del Desarrollo de Software / Configuración del Entorno - Entrega***
 
-a) Link del repositorio en GitHub con la aplicación.
+![ Link del repositorio en GitHub con la aplicación.
 https://github.com/dhachig11/uidecyberseguridad
-b) Diagramas de flujo cargados en el repositorio.
-FLUJO LOGICO
-Inicio
-  ↓
-Pedir longitud de la contraseña
-  ↓
-Validar que la longitud sea un número válido (>0)
-  ↓
-Importar módulos (random, string)
-  ↓
-Crear conjunto de caracteres (letras, dígitos, símbolos)
-  ↓
-Generar contraseña aleatoria
-  ↓
-Mostrar contraseña al usuario
-  ↓
-Fin
+![ Diagramas de flujo cargados en el repositorio.
+  FLUJO LOGICO
+  Inicio
+    ↓
+  Pedir longitud de la contraseña
+    ↓
+  Validar que la longitud sea un número válido (>0)
+    ↓
+  Importar módulos (random, string)
+    ↓
+  Crear conjunto de caracteres (letras, dígitos, símbolos)
+    ↓
+  Generar contraseña aleatoria
+    ↓
+  Mostrar contraseña al usuario
+    ↓
+  Fin
 =========================================================================================
-c) Generador de Contraseñas Básico en Python
+![ Generador de Contraseñas Básico en Python
   1.  Funciones del programa:
   2.  Solicita al usuario la longitud de la contraseña.
   3.  Usa letras, números y símbolos.
   4.  Genera la contraseña aleatoriamente.
   5.  Muestra la contraseña generada.
-d) Avance del código cargado en GitHub.
+![ Avance del código cargado en GitHub.
     # Definir manualmente el conjunto de caracteres
     letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
     digits = "0123456789"
@@ -54,8 +54,8 @@ d) Avance del código cargado en GitHub.
         except ValueError:
             print("Debe ingresar un número válido.")
 =========================================================================================
-d) Video explicativo del proceso desarrollado hasta este punto máximo 2 min
-Paso 2: Desarrollo del Programa Seleccionado - Entrega
+![ Video explicativo del proceso desarrollado hasta este punto máximo 2 min
+***Paso 2: Desarrollo del Programa Seleccionado - Entrega***
 a) Video explicativo del avance máximo 2 min.
 b) Video demostrativo de las funcionalidades implementadas máximo 2 min
 =========================================================================================
